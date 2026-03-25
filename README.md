@@ -41,7 +41,7 @@ The project report PDF is submitted separately via the VITyarthi portal.
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/[your-github-username]/oss-audit-24BAI10705.git
+git clone https://github.com/divyakrishna19/oss-audit-24BAI10705
 cd oss-audit-24BAI10705
 ```
 
