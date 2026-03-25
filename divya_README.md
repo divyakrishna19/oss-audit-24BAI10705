@@ -1,6 +1,7 @@
 # OSS Audit — Git
 **Student Name:** Divya Krishna  
-**Registration Number:** 24BAI10705  
+**Registration Number:** 24BAI10705
+**github:**https://github.com/divyakrishna19
 **Course:** CSE0002 — Open Source Software | VIT Bhopal University  
 **Software Audited:** Git (GPL v2)  
 **Repository:** `oss-audit-24BAI10705`
